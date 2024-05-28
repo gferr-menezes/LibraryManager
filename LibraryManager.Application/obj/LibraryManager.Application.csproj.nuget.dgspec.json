@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj",
+        "projectName": "LibraryManager.Application",
+        "projectPath": "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj",
+        "packagesPath": "/Users/guilhermeferreira/.nuget/packages/",
+        "outputPath": "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guilhermeferreira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/LibraryManager.Core.csproj": {
+                "projectPath": "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/LibraryManager.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/LibraryManager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/LibraryManager.Core.csproj",
+        "projectName": "LibraryManager.Core",
+        "projectPath": "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/LibraryManager.Core.csproj",
+        "packagesPath": "/Users/guilhermeferreira/.nuget/packages/",
+        "outputPath": "/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guilhermeferreira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

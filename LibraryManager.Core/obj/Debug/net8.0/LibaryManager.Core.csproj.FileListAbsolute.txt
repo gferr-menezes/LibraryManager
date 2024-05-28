@@ -1,0 +1,11 @@
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/bin/Debug/net8.0/LibaryManager.Core.deps.json
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/bin/Debug/net8.0/LibaryManager.Core.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/bin/Debug/net8.0/LibaryManager.Core.pdb
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/LibaryManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/LibaryManager.Core.AssemblyInfoInputs.cache
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/LibaryManager.Core.AssemblyInfo.cs
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/LibaryManager.Core.csproj.CoreCompileInputs.cache
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/LibaryManager.Core.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/refint/LibaryManager.Core.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/LibaryManager.Core.pdb
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Core/obj/Debug/net8.0/ref/LibaryManager.Core.dll

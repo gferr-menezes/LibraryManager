@@ -1,0 +1,17 @@
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.csproj.AssemblyReference.cache
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.AssemblyInfoInputs.cache
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.AssemblyInfo.cs
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/bin/Debug/net8.0/LibraryManager.Infrastructure.deps.json
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/bin/Debug/net8.0/LibraryManager.Infrastructure.runtimeconfig.json
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/bin/Debug/net8.0/LibraryManager.Infrastructure.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/bin/Debug/net8.0/LibraryManager.Infrastructure.pdb
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryM.468AC3F0.Up2Date
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/refint/LibraryManager.Infrastructure.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.pdb
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/LibraryManager.Infrastructure.genruntimeconfig.cache
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/obj/Debug/net8.0/ref/LibraryManager.Infrastructure.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/bin/Debug/net8.0/LibraryManager.Core.dll
+/Users/guilhermeferreira/Documents/Projects/Personal/mentoria_luis_dev/LibraryManager/LibraryManager.Infrastructure/bin/Debug/net8.0/LibraryManager.Core.pdb
